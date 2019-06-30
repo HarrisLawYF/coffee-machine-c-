@@ -1,0 +1,13 @@
+D:\Users\Harris\Desktop\Projects\coffee-machine\coffee-machine-test\coffee-machine-test\bin\Debug\coffee-machine-test.exe.config
+D:\Users\Harris\Desktop\Projects\coffee-machine\coffee-machine-test\coffee-machine-test\bin\Debug\coffee-machine-test.exe
+D:\Users\Harris\Desktop\Projects\coffee-machine\coffee-machine-test\coffee-machine-test\bin\Debug\coffee-machine-test.pdb
+D:\Users\Harris\Desktop\Projects\coffee-machine\coffee-machine-test\coffee-machine-test\bin\Debug\coffee-machine-control.dll
+D:\Users\Harris\Desktop\Projects\coffee-machine\coffee-machine-test\coffee-machine-test\bin\Debug\coffee-machine-control.pdb
+D:\Users\Harris\Desktop\Projects\coffee-machine\coffee-machine-test\coffee-machine-test\obj\Debug\coffee-machine-test.csprojAssemblyReference.cache
+D:\Users\Harris\Desktop\Projects\coffee-machine\coffee-machine-test\coffee-machine-test\obj\Debug\coffee_machine_test.Form1.resources
+D:\Users\Harris\Desktop\Projects\coffee-machine\coffee-machine-test\coffee-machine-test\obj\Debug\coffee_machine_test.Properties.Resources.resources
+D:\Users\Harris\Desktop\Projects\coffee-machine\coffee-machine-test\coffee-machine-test\obj\Debug\coffee-machine-test.csproj.GenerateResource.cache
+D:\Users\Harris\Desktop\Projects\coffee-machine\coffee-machine-test\coffee-machine-test\obj\Debug\coffee-machine-test.csproj.CoreCompileInputs.cache
+D:\Users\Harris\Desktop\Projects\coffee-machine\coffee-machine-test\coffee-machine-test\obj\Debug\coffee-machine-test.csproj.CopyComplete
+D:\Users\Harris\Desktop\Projects\coffee-machine\coffee-machine-test\coffee-machine-test\obj\Debug\coffee-machine-test.exe
+D:\Users\Harris\Desktop\Projects\coffee-machine\coffee-machine-test\coffee-machine-test\obj\Debug\coffee-machine-test.pdb
