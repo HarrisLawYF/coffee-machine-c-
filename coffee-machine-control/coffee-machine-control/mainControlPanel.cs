@@ -16,37 +16,38 @@ namespace coffee_machine_control
         {
             this.Location = new Point(Screen.AllScreens[0].WorkingArea.Right - this.Width - marginRight - adjustableRight, Screen.AllScreens[0].WorkingArea.Bottom - this.Height - marginBottom + adjustableBottom);
             cornerCut.BackColor = Color.LimeGreen;
+            this.TopMost = true;
             this.TransparencyKey = Color.LimeGreen;
         }
 
-        private void panel1_MouseEnter(object sender, System.EventArgs e)
+        private void espresso_MouseEnter(object sender, System.EventArgs e)
         {
-            panel1.BackColor = Color.DarkSalmon;
+            espressoPanel.BackColor = Color.DarkSalmon;
         }
 
-        private void panel1_MouseLeave(object sender, System.EventArgs e)
+        private void espresso_MouseLeave(object sender, System.EventArgs e)
         {
-            panel1.BackColor = Color.White;
+            espressoPanel.BackColor = Color.White;
         }
 
-        private void panel2_MouseEnter(object sender, System.EventArgs e)
+        private void machiato_MouseEnter(object sender, System.EventArgs e)
         {
-            panel2.BackColor = Color.DarkSalmon;
+            machiatoPanel.BackColor = Color.DarkSalmon;
         }
 
-        private void panel2_MouseLeave(object sender, System.EventArgs e)
+        private void machiato_MouseLeave(object sender, System.EventArgs e)
         {
-            panel2.BackColor = Color.White;
+            machiatoPanel.BackColor = Color.White;
         }
 
-        private void panel3_MouseEnter(object sender, System.EventArgs e)
+        private void americano_MouseEnter(object sender, System.EventArgs e)
         {
-            panel3.BackColor = Color.DarkSalmon;
+            americanoPanel.BackColor = Color.DarkSalmon;
         }
 
-        private void panel3_MouseLeave(object sender, System.EventArgs e)
+        private void americano_MouseLeave(object sender, System.EventArgs e)
         {
-            panel3.BackColor = Color.White;
+            americanoPanel.BackColor = Color.White;
         }
     }
 }

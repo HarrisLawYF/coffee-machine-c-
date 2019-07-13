@@ -22,3 +22,4 @@ D:\Users\Harris\Desktop\Projects\coffee-machine\coffee-machine-control\coffee-ma
 D:\Users\Harris\Desktop\Projects\coffee-machine\coffee-machine-control\coffee-machine-control\obj\Debug\coffee-machine-control.dll
 D:\Users\Harris\Desktop\Projects\coffee-machine\coffee-machine-control\coffee-machine-control\obj\Debug\coffee-machine-control.pdb
 D:\Users\Harris\Desktop\Projects\coffee-machine\coffee-machine-control\coffee-machine-control\obj\Debug\coffee_machine_control.mainControlPanel.resources
+D:\Users\Harris\Desktop\Projects\coffee-machine\coffee-machine-control\coffee-machine-control\obj\Debug\coffee-machine-control.csprojAssemblyReference.cache

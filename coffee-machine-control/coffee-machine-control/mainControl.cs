@@ -38,6 +38,7 @@ namespace coffee_machine_control
         {
             this.BackColor = Color.LimeGreen;
             this.TransparencyKey = Color.LimeGreen;
+            this.TopMost = true;
             this.Location = new Point(Screen.AllScreens[0].WorkingArea.Right - this.Width - marginRight, Screen.AllScreens[0].WorkingArea.Bottom - this.Height);
             this.startBtn1.Image = ((System.Drawing.Image)(Properties.Resources.logo1));
         }
